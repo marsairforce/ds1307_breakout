@@ -20,3 +20,7 @@ Just using one of the existing DS1307 libraries for your platform should work. I
 The KiCad project for schematic and PCB layout are here.
 
 ![schematic](ds1307_schematic.png)
+
+## Specs
+
+* The [DS1307](doc/DS1307.pdf) Real-Time Clock IC ( I2C, 5V)
