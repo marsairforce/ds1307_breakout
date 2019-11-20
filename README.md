@@ -1,9 +1,9 @@
-A breakout module for a DS1307 Real Time Clock
-
+# A breakout module for a DS1307 Real Time Clock
 
 ![v1 modules](doc/v1_modules.JPG)
 
-# Why
+## Why
+
 Why would you build a module, that costs you more, than existing breakout modules you can readily buy, that do more things?  Well. to learn of course.
 I also had some parts in stock from AliExpress. Felt kind of silly to go order some break out boards when I could just build me some.
 
@@ -11,5 +11,12 @@ I wanted a smaller footprint size than the modules that existed, working at the 
 
 Schematics done using Kicad
 
-# Software
+## Software
+
 Just using one of the existing DS1307 libraries for your platform should work. I don't really have my own library for this yet, I use the Adafruit one for Arduino.
+
+## Schematic
+
+The KiCad project for schematic and PCB layout are here.
+
+![schematic](ds1307_schematic.png)
